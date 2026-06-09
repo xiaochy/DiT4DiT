@@ -1,6 +1,6 @@
-# decoupled_wbc
+# Teleop, Training & Deployment Tuttutorial
 
-A deployment toolchain wrapping NVIDIA GR00T Whole-Body Control to drive a real Unitree G1: data collection via teleoperation, replay, and closed-loop policy inference.
+A deployment toolchain wrapping NVIDIA GR00T Whole-Body Control to drive a real Unitree G1: data collection via teleoperation, replay, training and closed-loop policy inference.
 
 ---
 
